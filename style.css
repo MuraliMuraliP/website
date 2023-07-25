@@ -1,8 +1,11 @@
 * {
     box-sizing: border-box;
   }
+  h5{
+    font-family: sans-serif;
+  }
   body {
-    /* border: 5px solid red; */
+    
     margin: 8px;
     padding: 8px;
   }
@@ -22,7 +25,7 @@
   }
   .set1 {
     display: flex;
-    /* border: 2px solid blue; */
+    
     height: 400px;
     margin-bottom: 10px;
     gap: 10px;
